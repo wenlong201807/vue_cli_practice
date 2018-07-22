@@ -1,5 +1,21 @@
 # vue_practice
 
+## 脚手架安装步骤
+
+```
+0.在github或者码云中复制ssh地址直接在桌面打开git bash(不用建文件夹，克隆的时候会自动生成，生成的文件夹作为跟目录)
+1. 全局安装(根目录下)
+>npm install --global vue-cli
+2. 创建一个基于webpack   模板的新项目
+>npm init webpack  my_project(根目录的文件名字)
+3. 依据提示，选择必要条件（根目录已经创建，有个提示，选择继续进行）
+4. 安装依赖
+>npm install
+5. 启动
+>npm run dev
+6. 复制地址，在浏览器中打开
+```
+
 > A Vue.js project
 
 ## Build Setup
