@@ -1,5 +1,9 @@
 <template>
-  <h1 class="home">home，单文件组件</h1>
+  <div>
+    <h1 class="home">home，单文件组件</h1>
+    <router-link to="/list" class="home">列表页</router-link>
+  </div>
+
 </template>
 
 <script>
@@ -10,6 +14,7 @@ export default {
 
 <style scoped>
 .home {
+  font-size: 50px;
   color: red;
 }
 </style>

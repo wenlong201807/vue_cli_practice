@@ -38,3 +38,16 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ### 多页面与单页面应用
 
 - 开始。。。
+  - 1843436 (HEAD -> master) 开始多页面与单页面
+- 多页面应用
+- 优点：首屏时间快 ，seo 效果好
+- 缺点：页面切换慢
+- 页面跳转 只有 HTML 没有 css 没有 js
+
+### 单页面应用
+
+- 优点：页面切换快
+- 缺点：首屏时间稍慢，seo 差
+- 页面跳转 依靠 js 渲染
+
+### 项目代码的初始化\*\*开始
