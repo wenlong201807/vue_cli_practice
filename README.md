@@ -59,26 +59,21 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
  <meta name="viewport" content="width=device-width,initial-scale=1.0
     minimum-scale=1.0,maximum-scale=1.0,user-scalable=no
     ">
-
+```
 
 - 移动端页面 [css reset]("/assets/styles/reset.css")
 
-- 移动端 1px 问题**缺失！！
+- 移动端 1px 问题\*\*缺失！！
 
   > import './assets/styles/border.css'
 
 - 移动端中，某些机型中有 300 毫秒点击延迟 bug
-```
 
+```
 npm install fastclick --save
-
 ```
+
 - [阿里云字体图库](http://www.iconfont.cn/manage/index?spm=a313x.7781069.1998910419.11&manage_type=myprojects&projectId=758259)
 - 页面跳转写法
-```
 
 <router-link to="/list" class="home">列表页</router-link>
-
-```
-
-```
