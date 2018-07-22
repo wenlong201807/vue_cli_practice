@@ -61,11 +61,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
     ">
 ```
 
-- 移动端页面 [css reset]("/assets/styles/reset.css")
+- 移动端页面 [css reset]("/src/assets/styles/reset.css")
 
 - 移动端 1px 问题\*\*缺失！！
 
   > import './assets/styles/border.css'
+  > [css reset]("/src/assets/styles/reset.css")
 
 - 移动端中，某些机型中有 300 毫秒点击延迟 bug
 
