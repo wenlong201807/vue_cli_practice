@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1 class="home">home，单文件组件</h1>
-    <router-link to="/list" class="home">列表页</router-link>
+    hello vue
+    <p>第二行</p>
+    <p>第三行</p>
   </div>
 
 </template>
@@ -13,8 +14,4 @@ export default {
 </script>
 
 <style scoped>
-.home {
-  font-size: 50px;
-  color: red;
-}
 </style>
