@@ -1,5 +1,8 @@
 # vue_practice
 
+[github 地址](https://github.com/wenlong201807/vue_cli_practice)
+[码云地址](https://gitee.com/wenlongzhu/vue_practice)
+
 ## 脚手架安装步骤
 
 ```
