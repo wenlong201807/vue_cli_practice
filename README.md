@@ -25,3 +25,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ## 下载脚手架之后，启动 npm run dev
 
 -src 中业务代码开发
+
+### 单文件组件与 vue 中的路由
+
+- 单文件组件（.vue）
+
+* 包含三部分，模板 template，scritp，style
+
+- 路由就是根据网址的不同，返回不同的内容给用户
