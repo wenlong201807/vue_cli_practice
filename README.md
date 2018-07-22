@@ -33,3 +33,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 * 包含三部分，模板 template，scritp，style
 
 - 路由就是根据网址的不同，返回不同的内容给用户
+- 405ae7d (HEAD -> master, origin/master, origin/HEAD) 单页面应用配置路由与单页面添加
+
+### 多页面与单页面应用
+
+- 开始。。。
